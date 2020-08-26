@@ -4,8 +4,8 @@ It's a Match Up Memory Cards
 
 ## Built With
 
-* [Xcode](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Swift](https://maven.apache.org/) - Dependency Management
+* [Xcode] - The framework used
+* [Swift] - Built in Swift
 
 
 ## Contributing
